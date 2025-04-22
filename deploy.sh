@@ -13,9 +13,9 @@ echo "🧪 Running unit tests..."
 sleep 2
 echo "✅ All tests passed!"
 sleep 1
-echo "📦 Packaging application..."
+echo "📦 Packaging applications..."
 sleep 2
-echo "🚀 Deploying application..."
+echo "🚀 Deploying applications..."
 sleep 1
 
 echo "-------------------------------------"
